@@ -673,6 +673,8 @@ this is for 16:9 phone factors
 
 @media only screen and (max-width:428px){
 
+#content-container { display: block; position: relative; width: 411px;  margin-left: auto; margin-right: auto;  }
+
 #_bg__phone {
 	top: 0px;
 	left: 0px;
@@ -1300,6 +1302,8 @@ this is for 16:10 phone factors
 
 */
 @media only screen and (max-width:375px){
+	
+#content-container { display: block; position: relative; width: 360px;  margin-left: auto; margin-right: auto;  }
 
 	
 #_bg__phone {
