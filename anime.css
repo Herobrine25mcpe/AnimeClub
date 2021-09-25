@@ -5,7 +5,7 @@ img { position: absolute; display: block; margin: 0px; border: none; padding: 0p
 
 div { position: absolute; }
 
-#content-container { display: block; position: relative; width: 100%;  margin-left: 1px; margin-right: 1px;  }
+#content-container { display: block; position: relative; width: 100%;  margin-left:auto px; margin-right: auto px;  }
 
 #_bg__desktop___1 {
 	top: 0px;
