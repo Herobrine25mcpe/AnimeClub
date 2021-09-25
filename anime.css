@@ -5,7 +5,7 @@ img { position: absolute; display: block; margin: 0px; border: none; padding: 0p
 
 div { position: absolute; }
 
-#content-container { display: block; position: relative; width: 100%;  margin-left:auto; margin-right: auto;  }
+#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
 
 #_bg__desktop___1 {
 	top: 0px;
@@ -604,7 +604,7 @@ div { position: absolute; }
 
 
 #log_in {
-	top: 35px;
+	top: 39px;
 	left: 938px;
 	width: 95px;
 	height: 47px;
@@ -803,6 +803,15 @@ this is for 16:9 phone factors
 }
 
 
+#img_r_36 {
+	display:none
+}
+
+#img_r_37 {
+	display:none
+}
+
+
 #img_r_35 {
 	top: 1587px;
 	left: 337px;
@@ -866,6 +875,15 @@ this is for 16:9 phone factors
 	height: 55px;
 }
 
+#img_r_27 {
+	display:none
+}
+
+
+#img_r_26 {
+	display:none
+}
+
 
 #img_r_25 {
 	top: 1346px;
@@ -914,6 +932,9 @@ this is for 16:9 phone factors
 	height: 85px;
 }
 
+#img_w_19 {
+	display:none
+}
 
 #img_w_18 {
 	top: 1045px;
@@ -939,6 +960,11 @@ this is for 16:9 phone factors
 }
 
 
+#img_w_15 {
+	display:none
+}
+
+
 #img_r_14 {
 	top: 805px;
 	left: 167px;
@@ -952,6 +978,10 @@ this is for 16:9 phone factors
 	left: 55px;
 	width: 95px;
 	height: 120px;
+}
+
+#img_w_12 {
+	display:none
 }
 
 
@@ -976,6 +1006,16 @@ this is for 16:9 phone factors
 	left: 55px;
 	width: 95px;
 	height: 120px;
+}
+
+
+#img_r_8 {
+	display:none
+}
+
+
+#img_r_7 {
+	display:none
 }
 
 
@@ -1391,6 +1431,14 @@ this is for 16:10 phone factors
 	background:rgba(0,0,0,0.95);
 }
 
+#img_r_37 {
+	display:none
+}
+
+
+#img_r_36 {
+	display:none
+}
 
 #img_r_35 {
 	top: 1582px;
@@ -1455,6 +1503,16 @@ this is for 16:10 phone factors
 	height: 45px;
 }
 
+#img_r_27 {
+	display:none
+}
+
+
+#img_r_26 {
+	display:none
+}
+
+
 
 #img_r_25 {
 	top: 1346px;
@@ -1504,6 +1562,10 @@ this is for 16:10 phone factors
 }
 
 
+#img_w_19 {
+	display:none
+}
+
 #img_w_18 {
 	top: 1044px;
 	left: 202px;
@@ -1519,6 +1581,9 @@ this is for 16:10 phone factors
 	height: 65px;
 }
 
+#img_w_15 {
+	display:none
+}
 
 #img_r_14 {
 	top: 805px;
@@ -1535,6 +1600,10 @@ this is for 16:10 phone factors
 	height: 100px;
 }
 
+
+#img_w_12 {
+	display:none
+}
 
 #img_r_11 {
 	top: 605px;
@@ -1557,6 +1626,16 @@ this is for 16:10 phone factors
 	left: 44px;
 	width: 80px;
 	height: 100px;
+}
+
+
+#img_r_8 {
+	display:none
+}
+
+
+#img_r_7 {
+	display:none
 }
 
 
