@@ -1,0 +1,607 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 2400px;
+	background:rgba(219.62,223.9,225.25,0.93);
+}
+
+
+#p_rect_10 {
+	top: 2337px;
+	left: 0px;
+	width: 1080px;
+	height: 65px;
+	background:rgba(55,66,123,1);
+}
+
+
+#p_rect_9 {
+	top: 2141px;
+	left: 110px;
+	width: 280px;
+	height: 71px;
+	background:rgba(55,66,123,1);
+}
+
+
+#p_rect_8 {
+	top: 1797px;
+	left: 110px;
+	width: 280px;
+	height: 304px;
+}
+
+
+#p_rect_7 {
+	top: 660px;
+	left: 0px;
+	width: 1080px;
+	height: 30px;
+	background:rgba(55,66,123,1);
+}
+
+
+#p_rect_6 {
+	top: 580px;
+	left: 0px;
+	width: 1080px;
+	height: 80px;
+	background: linear-gradient(180deg, #272959 0%, rgba(255, 255, 255, 0) 100%);
+
+}
+
+
+#p_rect_4 {
+	top: 111px;
+	left: 0px;
+	width: 1080px;
+	height: 469px;
+	background: rgba(0,0,0,0.95) ;
+}
+
+
+#p_rect_5 {
+	top: 433px;
+	left: 46px;
+	width: 237px;
+	height: 50px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(55,66,123,1);
+}
+
+
+#p_rect_3 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 111px;
+	background:rgba(255,255,255,1);
+}
+
+
+#p_rect_2 {
+	opacity:0.94999998807907;
+	top: 39px;
+	left: 928px;
+	width: 107px;
+	height: 32px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,0.95);
+}
+
+
+#p_rect_1 {
+	top: 1332px;
+	left: 110px;
+	width: 559px;
+	height: 349px;
+}
+
+
+#p_ellipse_3 {
+	top: 151px;
+	left: 46px;
+	width: 237px;
+	height: 233px;
+}
+
+
+#p_ellipse_2 {
+	top: 39px;
+	left: 877px;
+	width: 32px;
+	height: 32px;
+}
+
+
+#p_ellipse_1 {
+	top: 25px;
+	left: 46px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#p_img_r_15 {
+	top: 1991px;
+	left: 839px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_14 {
+	top: 1991px;
+	left: 713px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_13 {
+	top: 1856px;
+	left: 839px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_12 {
+	top: 1856px;
+	left: 713px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_11 {
+	top: 1908px;
+	left: 513px;
+	width: 156px;
+	height: 193px;
+}
+
+
+#p_img_r_10 {
+	top: 1094px;
+	left: 749px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_9 {
+	top: 1094px;
+	left: 623px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_8 {
+	top: 1094px;
+	left: 495px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_7 {
+	top: 1094px;
+	left: 364px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_6 {
+	top: 1094px;
+	left: 239px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_r_5 {
+	top: 1094px;
+	left: 113px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#p_img_w_4 {
+	top: 793px;
+	left: 650px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#p_img_r_3 {
+	top: 793px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#p_img_r_2 {
+	top: 793px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#p_img_r_1 {
+	top: 793px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#message__ {
+	top: 2162px;
+	left: 263px;
+	width: 119px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#follow__ {
+	top: 2162px;
+	left: 132px;
+	width: 110px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#anime__ {
+	top: 1797px;
+	left: 713px;
+	width: 109px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#riaz_gremory {
+	top: 1845px;
+	left: 519px;
+	width: 151px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#E30B27;
+}
+
+
+#wiafu__ {
+	top: 1845px;
+	left: 426px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#romance {
+	top: 1797px;
+	left: 530px;
+	width: 113px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#FEB700;
+}
+
+
+#genere__ {
+	top: 1797px;
+	left: 426px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#favourites__ {
+	top: 1749px;
+	left: 426px;
+	width: 146px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#hi_my_name_is_herobrine_i_love_anime_and_have_been_watching_it_for_years_now_ {
+	top: 1819px;
+	left: 132px;
+	width: 250px;
+	height: 276px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#abhout_me__ {
+	top: 1719px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anime_stats__ {
+	top: 1289px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#more__ {
+	top: 1126px;
+	left: 886px;
+	width: 100px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anime_list__ {
+	top: 1010px;
+	left: 113px;
+	width: 142px;
+	height: 62px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#recently_watched__ {
+	top: 749px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_me {
+	top: 605px;
+	left: 787px;
+	width: 132px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_stats {
+	top: 605px;
+	left: 576px;
+	width: 156px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_list {
+	top: 605px;
+	left: 377px;
+	width: 130px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#recently_watched {
+	top: 605px;
+	left: 132px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#quote__this_is_the_place_for_writting_a_quote__and_you_shoul_write_a_good_one___herobrine25mcpe {
+	top: 509px;
+	left: 55px;
+	width: 1097px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#follow___ek1 {
+	top: 434px;
+	left: 58px;
+	width: 212px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#search {
+	top: 33px;
+	left: 938px;
+	width: 95px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#top_anime {
+	top: 43px;
+	left: 220px;
+	width: 178px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club {
+	top: 43px;
+	left: 91px;
+	width: 178px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club_created_by_herobrine25mcpe {
+	top: 2357px;
+	left: -3px;
+	width: 1094px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
