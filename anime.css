@@ -675,7 +675,7 @@ this is for 16:9 phone factors
 
 #content-container { display: block; position: relative; width: 411px;  margin-left: auto; margin-right: auto;  }
 
-#_bg__phone {
+#_bg__desktop___1 {
 	top: 0px;
 	left: 0px;
 	width: 411px;
@@ -1306,7 +1306,7 @@ this is for 16:10 phone factors
 #content-container { display: block; position: relative; width: 360px;  margin-left: auto; margin-right: auto;  }
 
 	
-#_bg__phone {
+#_bg__desktop___1 {
 	top: 0px;
 	left: 0px;
 	width: 360px;
