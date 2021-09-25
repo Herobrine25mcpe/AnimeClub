@@ -1,0 +1,674 @@
+/*
+	@name anime
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 3600px;
+	background:rgba(219.62,223.9,225.25,0.93);
+}
+
+
+#rect_12 {
+	opacity:0.9200000166893;
+	top: 3535px;
+	left: 0px;
+	width: 1080px;
+	height: 65px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_10 {
+	opacity:0.85000002384186;
+	top: 3156px;
+	left: 8px;
+	width: 1080px;
+	height: 324px;
+	background:rgba(255,255,255,0.85);
+}
+
+
+#rect_11 {
+	top: 3412px;
+	left: 68px;
+	width: 226px;
+	height: 55px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(39,41,89,1);
+}
+
+
+#rect_9 {
+	opacity:0.9200000166893;
+	top: 2480px;
+	left: 0px;
+	width: 1080px;
+	height: 570px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_8 {
+	opacity:0.68999999761581;
+	top: 2400px;
+	left: 1px;
+	width: 1080px;
+	height: 30px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_7 {
+	top: 2062px;
+	left: 0px;
+	width: 1080px;
+	height: 337px;
+}
+
+
+#rect_6 {
+	opacity:0.68999999761581;
+	top: 2032px;
+	left: 1px;
+	width: 1080px;
+	height: 30px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_5 {
+	top: 658px;
+	left: 0px;
+	width: 1080px;
+	height: 80px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_3 {
+	top: 111px;
+	left: 0px;
+	width: 1080px;
+	height: 550px;
+}
+
+
+#rect_4 {
+	top: 182px;
+	left: 176px;
+	width: 737px;
+	height: 404px;
+}
+
+
+#rect_1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 111px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_2 {
+	opacity:0.94999998807907;
+	top: 39px;
+	left: 928px;
+	width: 107px;
+	height: 32px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,0.95);
+}
+
+
+#img_r_37 {
+	top: 3318px;
+	left: 863px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_36 {
+	top: 3318px;
+	left: 732px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_35 {
+	top: 3330px;
+	left: 611px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_34 {
+	top: 3330px;
+	left: 485px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_33 {
+	top: 3330px;
+	left: 354px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_31 {
+	top: 3183px;
+	left: 737px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_30 {
+	top: 3183px;
+	left: 611px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_32 {
+	top: 3183px;
+	left: 863px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_29 {
+	top: 3183px;
+	left: 485px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_28 {
+	top: 3183px;
+	left: 354px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#img_r_27 {
+	top: 2816px;
+	left: 787px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_26 {
+	top: 2816px;
+	left: 563px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_25 {
+	top: 2816px;
+	left: 339px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_24 {
+	top: 2816px;
+	left: 110px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_23 {
+	top: 2598px;
+	left: 788px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_22 {
+	top: 2598px;
+	left: 565px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_21 {
+	top: 2598px;
+	left: 337px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_r_20 {
+	top: 2598px;
+	left: 110px;
+	width: 130px;
+	height: 140px;
+}
+
+
+#img_w_19 {
+	top: 2156px;
+	left: 700px;
+	width: 270px;
+	height: 150px;
+}
+
+
+#img_w_18 {
+	top: 2156px;
+	left: 406px;
+	width: 270px;
+	height: 150px;
+}
+
+
+#img_w_17 {
+	top: 2156px;
+	left: 107px;
+	width: 270px;
+	height: 150px;
+}
+
+
+#img_r_16 {
+	top: 1741px;
+	left: 838px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_w_15 {
+	top: 1739px;
+	left: 475px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#img_r_14 {
+	top: 1741px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_13 {
+	top: 1739px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_w_12 {
+	top: 1401px;
+	left: 650px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#img_r_11 {
+	top: 1401px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_10 {
+	top: 1401px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_9 {
+	top: 1401px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_8 {
+	top: 1069px;
+	left: 838px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_7 {
+	top: 1069px;
+	left: 650px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_6 {
+	top: 1069px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_w_5 {
+	top: 1069px;
+	left: 110px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#img_w_4 {
+	top: 821px;
+	left: 650px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#img_r_3 {
+	top: 821px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_2 {
+	top: 821px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#img_r_1 {
+	top: 821px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#ellipse_3 {
+	top: 3183px;
+	left: 85px;
+	width: 180px;
+	height: 179px;
+}
+
+
+#ellipse_2 {
+	top: 39px;
+	left: 877px;
+	width: 32px;
+	height: 32px;
+}
+
+
+#ellipse_1 {
+	top: 25px;
+	left: 46px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#find_out_more__ {
+	top: 3428px;
+	left: 97px;
+	width: 181px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#explore__ {
+	top: 2524px;
+	left: 107px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#movies__ {
+	top: 2094px;
+	left: 133px;
+	width: 206px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	text-shadow: 0 0 2px #000000;
+	color:#000000;
+}
+
+
+#geners__ {
+	top: 1686px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#new__ {
+	top: 1348px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#popular_this_week__ {
+	top: 777px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#explore {
+	top: 683px;
+	left: 803px;
+	width: 116px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#movies {
+	top: 683px;
+	left: 639px;
+	width: 116px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#geners {
+	top: 683px;
+	left: 471px;
+	width: 116px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#new {
+	top: 683px;
+	left: 304px;
+	width: 116px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#trending {
+	top: 683px;
+	left: 138px;
+	width: 116px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#log_in {
+	top: 39px;
+	left: 938px;
+	width: 95px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#top_anime {
+	top: 43px;
+	left: 220px;
+	width: 178px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club {
+	top: 43px;
+	left: 91px;
+	width: 178px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club_created_by_herobrine25mcpe {
+	top: 3555px;
+	left: -3px;
+	width: 1094px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
