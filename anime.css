@@ -1,13 +1,8 @@
-/*
-	@name anime
-*/
-/* Only edit this if you know what you are doing! */
+
 body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
 
-/* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
 
-/* Only edit this if you know what you are doing! */
 div { position: absolute; }
 
 #content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
@@ -670,5 +665,1187 @@ div { position: absolute; }
 }
 
 
+/*
 
-/* Add your custom CSS here */
+this is for 16:9 phone factors
+
+*/
+
+@media only screen and (max-width:428px){
+
+#_bg__phone {
+	top: 0px;
+	left: 0px;
+	width: 411px;
+	height: 1740px;
+	background:rgba(220,224,225,1);
+}
+
+
+#rect_12 {
+	opacity:0.9200000166893;
+	top: 1698px;
+	left: 0px;
+	width: 411px;
+	height: 31px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_10 {
+	opacity:0.85000002384186;
+	top: 1504px;
+	left: 0px;
+	width: 411px;
+	height: 166px;
+	background:rgba(255,255,255,0.85);
+}
+
+
+#rect_11 {
+	top: 1627px;
+	left: 21px;
+	width: 97px;
+	height: 21px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(39,41,89,1);
+}
+
+
+#rect_9 {
+	opacity:0.9200000166893;
+	top: 1203px;
+	left: 0px;
+	width: 411px;
+	height: 253px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_8 {
+	opacity:0.68999999761581;
+	top: 1161px;
+	left: 2px;
+	width: 409px;
+	height: 15px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_7 {
+	top: 991px;
+	left: 2px;
+	width: 409px;
+	height: 170px;
+}
+
+
+#rect_6 {
+	opacity:0.68999999761581;
+	top: 975px;
+	left: 0px;
+	width: 411px;
+	height: 15px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_5 {
+	top: 200px;
+	left: 0px;
+	width: 411px;
+	height: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_3 {
+	top: 33px;
+	left: 0px;
+	width: 411px;
+	height: 167px;
+}
+
+
+#rect_4 {
+	top: 47px;
+	left: 81px;
+	width: 247px;
+	height: 138px;
+}
+
+
+#rect_1 {
+	top: 0px;
+	left: 0px;
+	width: 411px;
+	height: 33px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_2 {
+	opacity:0.94999998807907;
+	top: 9px;
+	left: 348px;
+	width: 44px;
+	height: 14px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,0.95);
+}
+
+
+#img_r_35 {
+	top: 1587px;
+	left: 337px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_34 {
+	top: 1587px;
+	left: 272px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_33 {
+	top: 1587px;
+	left: 206px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_32 {
+	top: 1587px;
+	left: 140px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_31 {
+	top: 1519px;
+	left: 337px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_30 {
+	top: 1519px;
+	left: 272px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_29 {
+	top: 1519px;
+	left: 206px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_28 {
+	top: 1519px;
+	left: 140px;
+	width: 55px;
+	height: 55px;
+}
+
+
+#img_r_25 {
+	top: 1346px;
+	left: 294px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_r_24 {
+	top: 1346px;
+	left: 175px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_r_23 {
+	top: 1346px;
+	left: 55px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_r_22 {
+	top: 1238px;
+	left: 294px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_r_21 {
+	top: 1238px;
+	left: 175px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_r_20 {
+	top: 1238px;
+	left: 55px;
+	width: 85px;
+	height: 85px;
+}
+
+
+#img_w_18 {
+	top: 1045px;
+	left: 224px;
+	width: 150px;
+	height: 80px;
+}
+
+
+#img_w_17 {
+	top: 1045px;
+	left: 55px;
+	width: 150px;
+	height: 80px;
+}
+
+
+#img_r_16 {
+	top: 805px;
+	left: 279px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_14 {
+	top: 805px;
+	left: 167px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_13 {
+	top: 805px;
+	left: 55px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_11 {
+	top: 605px;
+	left: 279px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_10 {
+	top: 605px;
+	left: 167px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_9 {
+	top: 605px;
+	left: 55px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_6 {
+	top: 426px;
+	left: 279px;
+	width: 95px;
+	height: 120px;
+}
+
+#img_w_5 {
+	display:none
+}
+
+#img_w_4 {
+	top: 426px;
+	left: 55px;
+	width: 203px;
+	height: 120px;
+}
+
+
+#img_r_3 {
+	top: 288px;
+	left: 279px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_2 {
+	top: 288px;
+	left: 167px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#img_r_1 {
+	top: 288px;
+	left: 55px;
+	width: 95px;
+	height: 120px;
+}
+
+
+#ellipse_3 {
+	top: 1519px;
+	left: 21px;
+	width: 97px;
+	height: 90px;
+}
+
+
+#ellipse_2 {
+	top: 9px;
+	left: 328px;
+	width: 14px;
+	height: 14px;
+}
+
+
+#ellipse_1 {
+	top: 5px;
+	left: 18px;
+	width: 22px;
+	height: 22px;
+}
+
+
+#find_out_more__ {
+	top: 1627px;
+	left: 27px;
+	width: 92px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 12px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#explore__ {
+	top: 1203px;
+	left: 42px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#movies__ {
+	top: 1009px;
+	left: 31px;
+	width: 61px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	text-shadow: 0 0 2px #000000;
+	color:#000000;
+}
+
+
+#geners__ {
+	top: 757px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#new__ {
+	top: 564px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#popular_this_week__ {
+	top: 244px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#explore {
+	top: 200px;
+	left: 279px;
+	width: 111px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#movies {
+	top: 200px;
+	left: 216px;
+	width: 111px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#geners {
+	top: 200px;
+	left: 140px;
+	width: 111px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#new {
+	top: 200px;
+	left: 72px;
+	width: 111px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#trending {
+	top: 200px;
+	left: 5px;
+	width: 111px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#log_in {
+	top: 6px;
+	left: 348px;
+	width: 42px;
+	height: 21.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#top_anime {
+	top: 5px;
+	left: 102px;
+	width: 65px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club {
+	top: 4px;
+	left: 38px;
+	width: 79px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club_created_by_herobrine25mcpe {
+	top: 1703px;
+	left: -2px;
+	width: 415px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+
+}
+/*
+
+this is for 16:10 phone factors
+
+*/
+@media only screen and (max-width:375px){
+
+	
+#_bg__phone {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 1740px;
+	background:rgba(220,224,225,1);
+}
+
+
+#rect_12 {
+	opacity:0.9200000166893;
+	top: 1698px;
+	left: 0px;
+	width: 360px;
+	height: 31px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_10 {
+	opacity:0.85000002384186;
+	top: 1499px;
+	left: 0px;
+	width: 360px;
+	height: 166px;
+	background:rgba(255,255,255,0.85);
+}
+
+
+#rect_11 {
+	top: 1622px;
+	left: 21px;
+	width: 80px;
+	height: 20px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(39,41,89,1);
+}
+
+
+#rect_9 {
+	opacity:0.9200000166893;
+	top: 1203px;
+	left: 2px;
+	width: 358px;
+	height: 253px;
+	background:rgba(255,255,255,0.92);
+}
+
+
+#rect_8 {
+	opacity:0.68999999761581;
+	top: 1161px;
+	left: 2px;
+	width: 358px;
+	height: 15px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_7 {
+	top: 991px;
+	left: 2px;
+	width: 358px;
+	height: 170px;
+}
+
+
+#rect_6 {
+	opacity:0.68999999761581;
+	top: 975px;
+	left: 0px;
+	width: 360px;
+	height: 15px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#rect_5 {
+	top: 200px;
+	left: 0px;
+	width: 360px;
+	height: 30px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_3 {
+	top: 33px;
+	left: 0px;
+	width: 360px;
+	height: 167px;
+}
+
+
+#rect_4 {
+	top: 47px;
+	left: 44px;
+	width: 247px;
+	height: 138px;
+}
+
+
+#rect_1 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 33px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rect_2 {
+	opacity:0.94999998807907;
+	top: 9px;
+	left: 303px;
+	width: 44px;
+	height: 14px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,0.95);
+}
+
+
+#img_r_35 {
+	top: 1582px;
+	left: 294px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_34 {
+	top: 1582px;
+	left: 241px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_33 {
+	top: 1582px;
+	left: 188px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_32 {
+	top: 1582px;
+	left: 135px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_31 {
+	top: 1519px;
+	left: 294px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_30 {
+	top: 1519px;
+	left: 241px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_29 {
+	top: 1519px;
+	left: 188px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_28 {
+	top: 1519px;
+	left: 135px;
+	width: 45px;
+	height: 45px;
+}
+
+
+#img_r_25 {
+	top: 1346px;
+	left: 252px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_r_24 {
+	top: 1346px;
+	left: 145px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_r_23 {
+	top: 1346px;
+	left: 44px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_r_22 {
+	top: 1238px;
+	left: 252px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_r_21 {
+	top: 1238px;
+	left: 145px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_r_20 {
+	top: 1238px;
+	left: 44px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#img_w_18 {
+	top: 1044px;
+	left: 202px;
+	width: 120px;
+	height: 65px;
+}
+
+
+#img_w_17 {
+	top: 1044px;
+	left: 44px;
+	width: 120px;
+	height: 65px;
+}
+
+
+#img_r_14 {
+	top: 805px;
+	left: 142px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_13 {
+	top: 805px;
+	left: 44px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_11 {
+	top: 605px;
+	left: 242px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_10 {
+	top: 605px;
+	left: 142px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_9 {
+	top: 605px;
+	left: 44px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_6 {
+	top: 416px;
+	left: 242px;
+	width: 80px;
+	height: 100px;
+}
+#img_w_5 {
+	display:none
+}
+
+#img_w_4 {
+	top: 416px;
+	left: 44px;
+	width: 178px;
+	height: 100px;
+}
+
+
+#img_r_3 {
+	top: 289px;
+	left: 242px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_2 {
+	top: 289px;
+	left: 142px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#img_r_1 {
+	top: 289px;
+	left: 44px;
+	width: 80px;
+	height: 100px;
+}
+
+
+#ellipse_3 {
+	top: 1519px;
+	left: 21px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#ellipse_2 {
+	top: 9px;
+	left: 274px;
+	width: 14px;
+	height: 14px;
+}
+
+
+#ellipse_1 {
+	top: 5px;
+	left: 18px;
+	width: 22px;
+	height: 22px;
+}
+
+
+#find_out_more__ {
+	top: 1622px;
+	left: 21px;
+	width: 86px;
+	height: 27.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#explore__ {
+	top: 1203px;
+	left: 42px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#movies__ {
+	top: 1009px;
+	left: 31px;
+	width: 61px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	text-shadow: 0 0 2px #000000;
+	color:#000000;
+}
+
+
+#geners__ {
+	top: 757px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#new__ {
+	top: 564px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#popular_this_week__ {
+	top: 244px;
+	left: 29px;
+	width: 199px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#explore {
+	top: 200px;
+	left: 279px;
+	width: 78px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#movies {
+	top: 200px;
+	left: 216px;
+	width: 72px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#geners {
+	top: 200px;
+	left: 140px;
+	width: 86px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#new {
+	top: 200px;
+	left: 72px;
+	width: 79px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#trending {
+	top: 200px;
+	left: 5px;
+	width: 86px;
+	height: 37.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#log_in {
+	top: 6px;
+	left: 305px;
+	width: 42px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#top_anime {
+	top: 5px;
+	left: 102px;
+	width: 65px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club {
+	top: 4px;
+	left: 38px;
+	width: 79px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club_created_by_herobrine25mcpe {
+	top: 1703px;
+	left: -2px;
+	width: 415px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#img_r_16 {
+	top: 805px;
+	left: 242px;
+	width: 80px;
+	height: 100px;
+}
+
+
+
+
+}
+
+
+
+
