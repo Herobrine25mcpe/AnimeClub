@@ -1,0 +1,1366 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 3960px;
+	background:rgba(216.75,216.75,216.75,1);
+}
+
+
+#a_rect_9 {
+	top: 3895px;
+	left: 0px;
+	width: 1080px;
+	height: 65px;
+	background:rgba(55,66,123,1);
+}
+
+
+#a_rect_6 {
+	top: 1901px;
+	left: 53px;
+	width: 975px;
+	height: 1950px;
+	background:rgba(255,255,255,1);
+}
+
+
+#a_rect_7 {
+	opacity:0.5;
+	top: 1970px;
+	left: 146px;
+	width: 794px;
+	height: 1572px;
+	background:rgba(197.62,197.62,197.62,0.5);
+}
+
+
+#a_rect_8 {
+	top: 1999px;
+	left: 794px;
+	width: 91px;
+	height: 1496px;
+	background:rgba(255,248.63,248.63,1);
+}
+
+
+#a_rect_5 {
+	opacity:0.68999999761581;
+	top: 675px;
+	left: 0px;
+	width: 1080px;
+	height: 74px;
+	background:rgba(255,255,255,0.69);
+}
+
+
+#a_rect_4 {
+	top: 176px;
+	left: 0px;
+	width: 1080px;
+	height: 499px;
+}
+
+
+#a_rect_3 {
+	top: 96px;
+	left: 0px;
+	width: 1080px;
+	height: 80px;
+	background: linear-gradient(180deg, #272959 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+
+#a_rect_1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 95px;
+	background:rgba(255,255,255,1);
+}
+
+
+#a_rect_2 {
+	opacity:0.94999998807907;
+	top: 32px;
+	left: 928px;
+	width: 107px;
+	height: 35px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,0.95);
+}
+
+
+#a_ellipse_2 {
+	top: 32px;
+	left: 877px;
+	width: 32px;
+	height: 35px;
+}
+
+
+#a_ellipse_1 {
+	top: 18px;
+	left: 46px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#a_img_r_32 {
+	top: 3624px;
+	left: 816px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_31 {
+	top: 3624px;
+	left: 690px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_30 {
+	top: 3624px;
+	left: 565px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_29 {
+	top: 3624px;
+	left: 434px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_28 {
+	top: 3624px;
+	left: 306px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_27 {
+	top: 3624px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_26 {
+	top: 3388px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_25 {
+	top: 3232px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_24 {
+	top: 3079px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_23 {
+	top: 2926px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_22 {
+	top: 2772px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_21 {
+	top: 2618px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_20 {
+	top: 2465px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_19 {
+	top: 2308px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_18 {
+	top: 2153px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_17 {
+	top: 2000px;
+	left: 167px;
+	width: 110px;
+	height: 110px;
+}
+
+
+#a_img_r_16 {
+	top: 1562px;
+	left: 838px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_15 {
+	top: 1562px;
+	left: 652px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_14 {
+	top: 1562px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_13 {
+	top: 1562px;
+	left: 110px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#a_img_r_12 {
+	top: 1316px;
+	left: 650px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#a_img_r_11 {
+	top: 1316px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_10 {
+	top: 1316px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_9 {
+	top: 1316px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_8 {
+	top: 1080px;
+	left: 838px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_7 {
+	top: 1080px;
+	left: 652px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_6 {
+	top: 1080px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_5 {
+	top: 1080px;
+	left: 110px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#a_img_r_4 {
+	top: 834px;
+	left: 650px;
+	width: 320px;
+	height: 180px;
+}
+
+
+#a_img_r_3 {
+	top: 834px;
+	left: 475px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_2 {
+	top: 834px;
+	left: 298px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_r_1 {
+	top: 834px;
+	left: 110px;
+	width: 132px;
+	height: 180px;
+}
+
+
+#a_img_m_6 {
+	top: 490px;
+	left: 742px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#a_img_m_5 {
+	top: 490px;
+	left: 433px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#a_img_m_4 {
+	top: 490px;
+	left: 124px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#a_img_m_3 {
+	top: 306px;
+	left: 742px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#a_img_m_2 {
+	top: 306px;
+	left: 433px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#a_img_m_1 {
+	top: 306px;
+	left: 124px;
+	width: 240px;
+	height: 125px;
+}
+
+
+#top_recommendation__ {
+	top: 209px;
+	left: 52px;
+	width: 279px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#EBEBEB;
+}
+
+
+#search {
+	top: 32px;
+	left: 938px;
+	width: 95px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#top_anime {
+	top: 37px;
+	left: 220px;
+	width: 178px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club {
+	top: 37px;
+	left: 91px;
+	width: 178px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#anime_club_created_by_herobrine25mcpe {
+	top: 3915px;
+	left: -4px;
+	width: 1094px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#seasonal_anime__ {
+	top: 777px;
+	left: 110px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#top_seasonal_anime__ {
+	top: 1925px;
+	left: 146px;
+	width: 234px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#score {
+	top: 1935px;
+	left: 811px;
+	width: 73px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anime_one__ {
+	top: 1999px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#no__of_epidoes__12 {
+	top: 2079px;
+	left: 337px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mar_2018___oct_2018 {
+	top: 2079px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action {
+	top: 2039px;
+	left: 337px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__14 {
+	top: 2233px;
+	left: 337px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jul_2017___jan_2018 {
+	top: 2233px;
+	left: 523px;
+	width: 183px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#romace {
+	top: 2193px;
+	left: 337px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__12_ek1 {
+	top: 2384px;
+	left: 337px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#may_2019___apr_2020 {
+	top: 2384px;
+	left: 523px;
+	width: 183px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ecchi {
+	top: 2347px;
+	left: 337px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__25 {
+	top: 2541px;
+	left: 337px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mar_2014___oct_2015 {
+	top: 2541px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#drama {
+	top: 2501px;
+	left: 337px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__24 {
+	top: 2692px;
+	left: 332px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#feb_2021___aug_2021 {
+	top: 2692px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action_ek1 {
+	top: 2655px;
+	left: 332px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__12_ek2 {
+	top: 2843px;
+	left: 332px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mar_2015___nov_2016 {
+	top: 2843px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#romace_ek1 {
+	top: 2806px;
+	left: 332px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__13 {
+	top: 3003px;
+	left: 332px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#feb_2020___oct_2020 {
+	top: 3003px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fantasy {
+	top: 2966px;
+	left: 332px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__46 {
+	top: 3151px;
+	left: 332px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mar_2018___nov_2018 {
+	top: 3151px;
+	left: 523px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#adventure {
+	top: 3114px;
+	left: 332px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__8 {
+	top: 3305px;
+	left: 328px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jul_2008___sep_2008 {
+	top: 3305px;
+	left: 519px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fantasy_ek1 {
+	top: 3268px;
+	left: 328px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#no__of_epidoes__11 {
+	top: 3460px;
+	left: 327px;
+	width: 176px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mar_2018___oct_2018_ek1 {
+	top: 3460px;
+	left: 519px;
+	width: 237px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action_ek2 {
+	top: 3418px;
+	left: 328px;
+	width: 104px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anime_ten__ {
+	top: 3385px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_nine__ {
+	top: 3231px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_eight__ {
+	top: 3077px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_seven__ {
+	top: 2923px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_six__ {
+	top: 2769px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_five__ {
+	top: 2615px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_four__ {
+	top: 2461px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_three__ {
+	top: 2307px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#anime_two_ {
+	top: 2145px;
+	left: 298px;
+	width: 182px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#37427B;
+}
+
+
+#_1___2___3___4___5___6___7_____________________46 {
+	top: 3803px;
+	left: 413px;
+	width: 288px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#page_ {
+	top: 3803px;
+	left: 286px;
+	width: 90px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#__ {
+	top: 3803px;
+	left: 381px;
+	width: 44px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#___ek1 {
+	top: 3803px;
+	left: 687px;
+	width: 44px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_9 {
+	top: 1999px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_8 {
+	top: 2135px;
+	left: 786px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_6 {
+	top: 2289px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_6_ek1 {
+	top: 2443px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_5 {
+	top: 2597px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_2 {
+	top: 2751px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_1 {
+	top: 2905px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_9_1_ek1 {
+	top: 3059px;
+	left: 785px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_8_8 {
+	top: 3213px;
+	left: 784px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_8_6 {
+	top: 3367px;
+	left: 784px;
+	width: 124px;
+	height: 148.5px;
+	overflow: hidden;
+	font-family: Caveat Brush;
+	font-size: 55px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#top__ {
+	top: 697px;
+	left: 110px;
+	width: 79px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#anime_ {
+	top: 697px;
+	left: 180px;
+	width: 92px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#seasonal_anime {
+	top: 693px;
+	left: 270px;
+	width: 204px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#recommendations {
+	top: 121px;
+	left: 777px;
+	width: 207px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#top_movies {
+	top: 121px;
+	left: 567px;
+	width: 156px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#sesonal_anime {
+	top: 121px;
+	left: 346px;
+	width: 183px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+#top_anime_list {
+	top: 121px;
+	left: 132px;
+	width: 204px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Cairo;
+	font-size: 22px;
+	text-align: center;
+	-ms-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	text-shadow:0px 4px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
