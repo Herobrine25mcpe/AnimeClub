@@ -1,2 +1,12 @@
 # AnimeClub
-Website for the anime club I created I
+Ui design for a website.
+
+# Index page
+this is the landing page of the website,
+![](image/index.png)
+
+# Profile Page
+![](image/profile.png)
+
+# Explore Page
+![](image/explore.png)
