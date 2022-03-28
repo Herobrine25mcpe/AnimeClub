@@ -10,4 +10,9 @@ this is the profile page of the website including watch history and data driven 
 ![](image/profile.png)
 
 # Explore Page
+this is the explorer page for new and upcoming anime as well as rating of the anime.
 ![](image/explore.png)
+
+
+
+this is just the UI of the website for now, maybe in future it will turn into a fully functional website.
