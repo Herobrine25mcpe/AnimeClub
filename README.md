@@ -6,7 +6,7 @@ this is the landing page of the website, including options such as treding anime
 ![](image/index.png)
 
 # Profile Page
-
+this is the profile page of the website including watch history and data driven stats of the person as wel ass favourits.
 ![](image/profile.png)
 
 # Explore Page
